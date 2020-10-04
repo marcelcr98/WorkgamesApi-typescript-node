@@ -7,3 +7,5 @@ export default{
         database: 'heroku_df2f4a10ff3ea9d'
     }
 }
+
+//"build": "tsc -w",
